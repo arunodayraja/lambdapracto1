@@ -1,0 +1,9 @@
+.vagrant
+config/
+playbooks/var.json
+playbooks/*.retry
+.vscode/
+src/*.zip
+playbooks/*.zip
+
+*.pem
